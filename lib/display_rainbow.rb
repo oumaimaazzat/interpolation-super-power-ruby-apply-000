@@ -1,8 +1,8 @@
 def display_rainbow  (['red', 'orange', 'yellow'. 'green', 'blue', 'indigo', 'violet'])
   puts R = "red"
   puts O = "orange" 
-Y = "yellow"
-G = "green" 
-B = "blue"
-I = "indigo" 
-V = "violet" 
+  puts Y = "yellow"
+  puts G = "green" 
+  puts B = "blue"
+  puts I = "indigo" 
+  puts V = "violet" 
